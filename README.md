@@ -27,7 +27,7 @@ masculina.
 
 ### 🧰 Ferramentas
 
--   Editor: Cursor (baseado no VS Code)
+-   Editor: Figma (baseado no VS Code)
 -   Navegador: Google Chrome
 -   Versionamento: GitHub
 
